@@ -5,4 +5,4 @@ Simple Login screen with Swift.Uses core data to store and retrieve results.Sear
 
 
 
-![alt tag](http://nerddevelopers.com/images/loginimage.PNG)
+![alt tag](http://s25.postimg.org/gyatz879r/loginimage.png)
